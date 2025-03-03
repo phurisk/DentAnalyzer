@@ -4,6 +4,9 @@
 Mr. Phuris Kruacharee¹, Mr. Thanaphorn Kanking², Dr. Thanapong Intharah³
 
 ## Overview
+
+![overview](https://github.com/user-attachments/assets/2b4abf3a-7545-408d-a55c-005a28e9d251)
+
 DentAnalyzer streamlines vehicle damage assessment by automating damage evaluation and repair cost estimation. Traditional methods rely on expert analysis, which is slow and prone to errors. However, training datasets for AI models are often limited due to poor lighting, low resolution, and incorrect angles. 
 
 To solve this, a system using Blender generates realistic vehicle image datasets from 3D models. These images train the AI model, enabling DentAnalyzer to provide accurate damage assessment and cost estimates, reducing delays and improving claim processing efficiency.
@@ -25,9 +28,9 @@ Our project has received funding support and has successfully advanced to the fi
 Additionally, we have been honored with the **Thailand New Gen Inventors Award 2025 (I-NEW GEN AWARD 2025)** in the **Higher Education Level - Tourism and Creative Economy** category, receiving a **Silver Medal**.
 
 ### Certificates
-- ![NSC 2024 Certificate](DentAnalyzer/static/Pic/cur1.png)
-- ![NSC 2024 Certificate](DentAnalyzer/static/Pic/cur2.png)
-- ![I-NEW GEN 2025 Silver Medal](DentAnalyzer/static/Pic/inewgen.png)
+- ![NSC 2024 Certificate](![ภาพ](https://github.com/user-attachments/assets/0035f5b8-3d66-4566-be2f-62e4a129383c))
+- ![NSC 2024 Certificate](![ภาพ](https://github.com/user-attachments/assets/ff8405a0-185c-41e6-b101-9a0dd7445830))
+- ![I-NEW GEN 2025 Silver Medal](![ภาพ](https://github.com/user-attachments/assets/eeb4fe4a-098f-42be-ab83-a2b66346db85))
 
 ## Related Research
 DentAnalyzer integrates synthetic image generation and machine learning for damage assessment. Below are key research studies that provide insights into our approach.
