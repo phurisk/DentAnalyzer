@@ -67,6 +67,3 @@ DentAnalyzer integrates synthetic image generation and machine learning for dama
 }
 ```
 
----
-
-This README provides a structured overview of the **DentAnalyzer** project, making it easier to understand its objectives, methodology, and impact.
