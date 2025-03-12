@@ -109,13 +109,15 @@
 .author-container {
     display: flex;
     flex-direction: column;
-    align-items: center; /* จัดให้อยู่ตรงกลางแนวนอน */
+    align-items: center; /* จัดตรงกลางแนวนอน */
     text-align: center;
+    position: relative; /* ให้ใช้ position สำหรับจัดวาง */
+    padding-top: 30px; /* เว้นที่ด้านบนให้พอสำหรับรูป */
 }
 
 .author-img {
-    width: 200px;
-    height: 200px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 5px;
