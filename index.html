@@ -106,15 +106,20 @@
 
 
 
-.author-img {
-    width: 50px;  /* ขนาดรูป */
-    height: 50px; /* ทำให้เป็นสี่เหลี่ยมจัตุรัส */
-    border-radius: 50%; /* ทำให้กลายเป็นวงกลม */
-    object-fit: cover; /* ป้องกันภาพบีบ */
-    margin-bottom: 5px; /* เว้นระยะห่างจากชื่อ */
-    display: block; /* ทำให้รูปอยู่ด้านบนชื่อ */
+.author-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* จัดให้อยู่ตรงกลางแนวนอน */
+    text-align: center;
 }
 
+.author-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
 
 
 
